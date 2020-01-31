@@ -1,5 +1,4 @@
 # By Colanns @ blog.colanns.me
-import requests
 import sys
 import io
 from time import sleep
