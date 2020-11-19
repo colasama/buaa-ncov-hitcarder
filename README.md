@@ -1,6 +1,7 @@
 # buaa-ncov-hitcarder
 
 BUAA肺炎状况自动打卡脚本
+推荐使用https://github.com/mottled233/buaa_daily_report 这位的打卡脚本，比咱的完善好多~
 
 ## 使用说明
 
